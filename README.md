@@ -3,7 +3,7 @@ Usage of this application is that a user can just scroll a image slider with vis
 
 Clone or fork this repository to your local machine:
 
-https://github.com/Soorajhari/Pdf-Extracter.git
+https://github.com/Soorajhari/image-Slider-react.git
 
 Prerequisites The service must be installed
 
